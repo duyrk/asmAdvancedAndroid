@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".FireBaseActivity"
+    android:padding="5dp">
+
+    <EditText
+        android:id="@+id/txtTenMon"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:ems="10"
+        android:hint="Tên môn"
+        android:inputType="textPersonName"
+        android:textSize="20sp" />
+
+    <EditText
+        android:id="@+id/txtMaMon"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:ems="10"
+        android:hint="Mã môn"
+        android:inputType="textPersonName"
+        android:textSize="20sp" />
+    <EditText
+        android:id="@+id/txtPhongHoc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:hint="Phòng học"
+        android:textSize="20sp"
+        android:layout_marginBottom="16dp"
+        />
+    <EditText
+        android:id="@+id/txtGioHoc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:hint="Giờ môn"
+        android:textSize="20sp"
+        android:layout_marginBottom="16dp"
+        />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/btnHuy"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="hủy"
+            android:onClick="onCancelClick"
+            android:layout_weight="1"
+            android:backgroundTint="#1fd655"
+            android:textColor="@color/white"
+            />
+        <Button
+            android:id="@+id/btnLuu"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="onSaveClick"
+        android:text="lưu"
+            android:layout_weight="1"
+            android:backgroundTint="#1fd655"
+            android:textColor="@color/white"
+        />
+    </LinearLayout>
+    <FrameLayout
+        android:id="@+id/courseFrag"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        />
+</LinearLayout>

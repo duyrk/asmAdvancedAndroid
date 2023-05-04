@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">asmAdvancedAndroid</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+    <string name="facebook_app_id">1079987832655674</string>
+    <string name="fb_login_protocol_scheme">fb1079987832655674</string>
+    <string name="facebook_client_token">59e7bf80ea8199174d6ee0e6eff4bd93ad9bd600b5b062d9410b5f96e60719c2</string>
+
+    <string-array name="coso_fpt_array">
+        <item>5 cơ sở FPT Polytechnic: </item>
+        <item>FPT Polytechnic TP. HỒ CHÍ MINH</item>
+        <item>FPT Polytechnic Đà Nẵng</item>
+        <item>FPT Polytechnic Hà Nội</item>
+        <item>FPT Polytechnic Tây Nguyên</item>
+        <item>FPT Polytechnic Cần Thơ</item>
+    </string-array>
+</resources>

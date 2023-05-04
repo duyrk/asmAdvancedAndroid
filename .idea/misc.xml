@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioProjects/asmAdvancedAndroid/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2045" />
+        <entry key="..\:/AndroidStudioProjects/asmAdvancedAndroid/app/src/main/res/layout/activity_courses.xml" value="0.264" />
+        <entry key="..\:/AndroidStudioProjects/asmAdvancedAndroid/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProjects/asmAdvancedAndroid/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/AndroidStudioProjects/asmAdvancedAndroid/app/src/main/res/layout/activity_map.xml" value="0.22826086956521738" />
+        <entry key="..\:/AndroidStudioProjects/asmAdvancedAndroid/app/src/main/res/layout/activity_maps.xml" value="0.22826086956521738" />
+        <entry key="..\:/AndroidStudioProjects/asmAdvancedAndroid/app/src/main/res/layout/activity_menu.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProjects/asmAdvancedAndroid/app/src/main/res/layout/activity_news.xml" value="0.2" />
+        <entry key="..\:/AndroidStudioProjects/asmAdvancedAndroid/app/src/main/res/layout/activity_register.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProjects/asmAdvancedAndroid/app/src/main/res/layout/bottomnavcourses.xml" value="0.15172101449275363" />
+        <entry key="..\:/AndroidStudioProjects/asmAdvancedAndroid/app/src/main/res/layout/fragment_course_exam_fragment.xml" value="0.264" />
+        <entry key="..\:/AndroidStudioProjects/asmAdvancedAndroid/app/src/main/res/layout/fragment_course_registration_fragment.xml" value="0.22826086956521738" />
+        <entry key="..\:/AndroidStudioProjects/asmAdvancedAndroid/app/src/main/res/layout/fragment_course_schedule_fragment.xml" value="0.22826086956521738" />
+        <entry key="..\:/AndroidStudioProjects/asmAdvancedAndroid/app/src/main/res/layout/fragment_courses_home_fragment.xml" value="0.22826086956521738" />
+        <entry key="..\:/AndroidStudioProjects/asmAdvancedAndroid/app/src/main/res/layout/layout_course_detail_item.xml" value="0.22826086956521738" />
+        <entry key="..\:/AndroidStudioProjects/asmAdvancedAndroid/app/src/main/res/layout/newslayout.xml" value="0.22826086956521738" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
